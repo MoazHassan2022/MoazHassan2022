@@ -1,0 +1,14 @@
+<svg width="600" height="240" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <rect fill="#ff0000" stroke="#000" opacity="NaN" x="185" y="71" width="0" height="0" id="svg_2"/>
+  <rect fill="#ff0000" stroke="#000" opacity="NaN" x="700" y="591" width="0" height="0" id="svg_3"/>
+  <rect fill="#ff0000" stroke="#000" opacity="NaN" x="471" y="204" width="0" height="0" id="svg_4"/>
+  <rect fill="#ff0000" stroke="#000" opacity="NaN" x="471" y="204" width="0" height="0" id="svg_5"/>
+  <rect fill="#ff0000" stroke="#000" opacity="NaN" x="471" y="204" width="0" height="0" id="svg_6"/>
+  <rect fill="#ff0000" stroke="#000" opacity="NaN" x="479" y="212" width="0" height="0" id="svg_7"/>
+  <rect id="svg_8" height="194" width="533" y="21" x="33.5" stroke="#000" fill="#3d3c3c"/>
+  <text transform="matrix(1 0 0 1 0 0)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="43" stroke-width="0" id="svg_9" y="134.4" x="170.05576" stroke="#000" fill="#ffffff">ًWelcome , I'm Moaz</text>
+ </g>
+
+</svg>
