@@ -20,9 +20,9 @@ skills, scouting skills and person improvement for boys aged from 7 to 11 years.
   <br>
 
 
- ![MoazHassan2022's GitHub stats](https://github-readme-stats.vercel.app/api?username=moazhassan2022)
+ //![MoazHassan2022's GitHub stats](https://github-readme-stats.vercel.app/api?username=moazhassan2022)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=moazhassan2022&theme=novatorem)
+//![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=moazhassan2022&theme=novatorem)
 
 <h2 align="center">📫 How to reach me:</h2>
 
