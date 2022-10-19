@@ -9,8 +9,8 @@
 <h2>Who am I</h2>
 <ul>
  <li><strong><em>I am Moaz Hassan, a junior Computer Engineering student at the Faculty of Engineering, Cairo University.</em><strong></li>
- <li><strong><em>I am a Back end web developer with Django. </em></strong></li>
- <li><strong><em>I'm familiar with high level languages like C++, C#, Python, Java and JavaScript and low level languages like Assembly and Verilog. </em></strong></li>
+ <li><strong><em>I am a Back end web developer with Nodejs & Expressjs. </em></strong></li>
+ <li><strong><em>I'm familiar with high level languages like C++, C#, Python, Java and JavaScript and low level languages like Assembly and hardware description languages like Verilog. </em></strong></li>
  <li><strong><em>I also like interacting with data and database, I'm familiar with SQL. </em></strong></li>
  <li><strong><em>I'm Scouts leader at Faculty of Engineering, Cairo University Rovers Clan where I eliminated process bottlenecks, reviewing team activities and brought all new trainees up to speed quickly. </em></strong></li>
 <li><strong><em>I'm also Scouts leader at Fekra scouts and guidance group Where I track daily activities such as Art 
@@ -18,11 +18,6 @@ skills, scouting skills and person improvement for boys aged from 7 to 11 years.
 <li><strong><em>I was a member at Faculty of Engineering, Cairo University Student Union where we helped students to improve their skills. </em></strong></li>
 
   <br>
-
-
- #![MoazHassan2022's GitHub stats](https://github-readme-stats.vercel.app/api?username=moazhassan2022)
-
-#![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=moazhassan2022&theme=novatorem)
 
 <h2 align="center">📫 How to reach me:</h2>
 
