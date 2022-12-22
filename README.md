@@ -49,7 +49,7 @@ skills, scouting skills and person improvement for boys aged from 7 to 11 years.
 
   <img src="https://cdn.cdnlogo.com/logos/d/3/django.svg" height="40" width="40">
 
-  <img src="https://cdn.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" height="40" width="40">
+
 
   <img src="https://cdn.cdnlogo.com/logos/m/10/mysql.svg" height="40" width="40">
 
@@ -70,5 +70,5 @@ skills, scouting skills and person improvement for boys aged from 7 to 11 years.
 </p>
 
 
-<h2 align="center">You Can have a Look to my Cv from Here : <a href="https://drive.google.com/file/d/1JBw6AN7b_0ni9O64KlDQ8xFhmKIjehhN/view?usp=sharing" target="_blank"> <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-resume-human-resources-itim2101-lineal-color-itim2101-1.png"  height="30" width="30" > </a>  </h2>
+<h2 align="center">You Can have a Look to my Cv from Here : <a href="https://drive.google.com/file/d/1qn16uyctrFjVOxtrORuSmiCOUVw10mtP/view?usp=drivesdk" target="_blank"> <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-resume-human-resources-itim2101-lineal-color-itim2101-1.png"  height="30" width="30" > </a>  </h2>
 
