@@ -8,7 +8,7 @@
 
 <h2>Who am I</h2>
 <ul>
- <li><strong><em>I am Moaz Hassan, a Software Engineer at Safecotech and a junior Computer Engineering student at the Faculty of Engineering, Cairo University.</em><strong></li>
+ <li><strong><em>I am Moaz Hassan, a software engineer at Safecotech and a junior Computer Engineering student at the Faculty of Engineering, Cairo University.</em><strong></li>
  <li><strong><em>I am a Back end web developer with Node.js, Express.js, Nest.js. </em></strong></li>
  <li><strong><em>I'm familiar with high level languages like C++, C#, Python, Java and JavaScript and low level languages like Assembly and hardware description languages like Verilog. </em></strong></li>
  <li><strong><em>I also like interacting with data and database, I'm familiar with SQL. </em></strong></li>
