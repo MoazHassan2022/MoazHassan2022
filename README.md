@@ -67,7 +67,7 @@ skills, scouting skills and person improvement for boys aged from 7 to 11 years.
  
   <img src="https://cdn.cdnlogo.com/logos/m/30/mongodb-icon.svg" height="40" width="40">
  
-  <img src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/800px-Microsoft_SQL_Server_Logo.svg" height="40" width="40">
+  <img src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/1035px-Microsoft_SQL_Server_Logo.svg.png?20100429075711" height="40" width="40">
  
   <img src="https://cdn.cdnlogo.com/logos/m/30/mongodb-icon.svg" height="40" width="40">
  
