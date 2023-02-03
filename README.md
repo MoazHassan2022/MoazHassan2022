@@ -57,10 +57,20 @@ skills, scouting skills and person improvement for boys aged from 7 to 11 years.
 
   <img src="https://cdn.svgporn.com/logos/git-icon.svg" height="40" width="40">
   
-   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" height="40" width="40">
-   
   <img src="https://cdn.svgporn.com/logos/javascript.svg" height="40" width="40">
-
+ 
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" height="40" width="40">
+ 
+  <img src="https://initialcommit.com/img/initialcommit/beginners-guide-to-using-express-js-and-node-js-framework.png" height="40" width="40">
+ 
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" height="40" width="40">
+ 
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" height="40" width="40">
+ 
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" height="40" width="40">
+ 
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" height="40" width="40">
+   
   <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="40" width="40">
 
   <img src="https://cdn.cdnlogo.com/logos/r/65/red-hat.svg" height="40" width="40">
