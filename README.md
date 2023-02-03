@@ -8,14 +8,14 @@
 
 <h2>Who am I</h2>
 <ul>
- <li><strong><em>I am Moaz Hassan, a software engineer at Safecotech and a junior Computer Engineering student at the Faculty of Engineering, Cairo University.</em><strong></li>
- <li><strong><em>I am a Back end web developer with Node.js, Express.js, Nest.js. </em></strong></li>
+ <li><strong><em>I am Moaz Mohamed, a software engineer at Safecotech and a junior Computer Engineering student at Faculty of Engineering, Cairo University.</em><strong></li>
+ <li><strong><em>I am a Back end web developer with Node.js, Express.js & Nest.js. </em></strong></li>
  <li><strong><em>I'm familiar with high level languages like C++, C#, Python, Java and JavaScript and low level languages like Assembly and hardware description languages like Verilog. </em></strong></li>
- <li><strong><em>I also like interacting with data and database, I'm familiar with SQL. </em></strong></li>
- <li><strong><em>I'm Scouts leader at Faculty of Engineering, Cairo University Rovers Clan where I eliminated process bottlenecks, reviewing team activities and brought all new trainees up to speed quickly. </em></strong></li>
-<li><strong><em>I'm also Scouts leader at Fekra scouts and guidance group Where I track daily activities such as Art 
+ <li><strong><em>I also like interacting with data and database, I'm familiar with Relational databases like Microsoft SQL, MySQL, PostgreSQL, and SQLite, and with Non-relational databases like MongoDB. </em></strong></li>
+ <li><strong><em>I was a Scouts leader at Faculty of Engineering, Cairo University Rovers Clan where I eliminated process bottlenecks, reviewing team activities and brought all new trainees up to speed quickly. </em></strong></li>
+<li><strong><em>I'm also a Scouts leader at Fekra scouts and guidance group Where I track daily activities such as Art 
 skills, scouting skills and person improvement for boys aged from 7 to 11 years. </em></strong></li>
-<li><strong><em>I was a member at Faculty of Engineering, Cairo University Student Union where we helped students to improve their skills. </em></strong></li>
+<li><strong><em>I was a member at Faculty of Engineering, Cairo University Students Union where we helped students to improve their skills. </em></strong></li>
 
   <br>
 
@@ -31,7 +31,7 @@ skills, scouting skills and person improvement for boys aged from 7 to 11 years.
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
 
-  <a href="mailto:Moaz.Bayoumi00@eng-st.cu.edu.eg">
+  <a href="mailto:moaz25jan2015@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
 
@@ -48,8 +48,6 @@ skills, scouting skills and person improvement for boys aged from 7 to 11 years.
   <img src="https://cdn.svgporn.com/logos/python.svg" height="40" width="40">
 
   <img src="https://cdn.cdnlogo.com/logos/d/3/django.svg" height="40" width="40">
-
-
 
   <img src="https://cdn.cdnlogo.com/logos/m/10/mysql.svg" height="40" width="40">
 
