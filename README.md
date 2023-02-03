@@ -63,7 +63,7 @@ skills, scouting skills and person improvement for boys aged from 7 to 11 years.
  
   <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png" height="40" width="40">
  
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" height="40" width="40">
+  <img src="./img/nestjs.svg" height="40" width="40">
  
   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" height="40" width="40">
  
