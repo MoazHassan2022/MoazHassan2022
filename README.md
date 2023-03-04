@@ -23,7 +23,7 @@ skills, scouting skills and person improvement for boys aged from 7 to 11 years.
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/moaz-mohamed-hassan-bayoumi-a3296622b/">
+  <a href="https://www.linkedin.com/in/moaz-mohamed-a3296622b">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
 
