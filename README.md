@@ -62,6 +62,7 @@ skills, scouting skills and person improvement for boys aged from 7 to 11 years.
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" width="110" height="40"/> 
 <img src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454" alt="pug" width="110" height="40"/> 
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv" width="110" height="40"/> 
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=" alt="opencv" width="110" height="40"/> 
 <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="qt" width="110" height="40"/> 
 <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm" width="110" height="40"/> 
 <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="jest" width="110" height="40"/> 
@@ -78,5 +79,5 @@ skills, scouting skills and person improvement for boys aged from 7 to 11 years.
   </p>
 
 
-<h2 align="center">You can have a Look to my CV for more details from here: <a href="https://drive.google.com/file/d/1YM1UzhkMDoXmZOdvC9WV01bp_qs3AaLN/view?usp=sharing" target="_blank"> <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-resume-human-resources-itim2101-lineal-color-itim2101-1.png"  height="30" width="30" > </a>  </h2>
+<h2 align="center">You can have a Look to my CV for more details from here: <a href="https://drive.google.com/file/d/1R5oc-ErDgeAG_jj-V-ePgJoB0R2qnMub/view?usp=sharing" target="_blank"> <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-resume-human-resources-itim2101-lineal-color-itim2101-1.png"  height="30" width="30" > </a>  </h2>
 
