@@ -8,7 +8,7 @@
 
 <h2>Who am I</h2>
 <ul>
- <li><strong><em>I am Moaz Mohamed, a backend developer at Appgain.io and a senior Computer Engineering student at Faculty of Engineering, Cairo University.</em><strong></li>
+ <li><strong><em>I am Moaz Mohamed, a backend developer at Apes Smart Solutions and a Computer Engineering graduate at Faculty of Engineering, Cairo University.</em><strong></li>
  <li><strong><em>I am a Back end web developer with Node.js, Express.js, Flask & Nest.js. </em></strong></li>
  <li><strong><em>I'm familiar with high level languages like C++, C#, Python, Java and JavaScript and low level languages like Assembly and hardware description languages like Verilog. </em></strong></li>
  <li><strong><em>I also like interacting with data and database, I'm familiar with Relational databases like MS SQL, MySQL, PostgreSQL, and SQLite, and with Non-relational databases like MongoDB. </em></strong></li>
