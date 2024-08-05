@@ -8,7 +8,7 @@
 
 <h2>Who am I</h2>
 <ul>
- <li><strong><em>I am Moaz Mohamed, a backend developer at Apes Smart Solutions and a Computer Engineering graduate at Faculty of Engineering, Cairo University with Excellent grade with honor.</em><strong></li>
+ <li><strong><em>I am Moaz Mohamed, a backend developer at Apes Smart Solutions and a Computer Engineering graduate at Faculty of Engineering, Cairo University with Excellent grade with honor and GPA of 3.7.</em><strong></li>
  <li><strong><em>I am a Back end web developer with Node.js, Express.js, Flask & Nest.js. </em></strong></li>
  <li><strong><em>I'm familiar with high level languages like C++, C#, Python, Java and JavaScript and low level languages like Assembly and hardware description languages like Verilog. </em></strong></li>
  <li><strong><em>I also like interacting with data and database, I'm familiar with Relational databases like MS SQL, MySQL, PostgreSQL, and SQLite, and with Non-relational databases like MongoDB. </em></strong></li>
@@ -80,5 +80,5 @@ skills, scouting skills and person improvement for boys aged from 7 to 11 years.
   </p>
 
 
-<h2 align="center">You can have a Look to my CV for more details from here: <a href="https://drive.google.com/file/d/1rDlQ-5XqaIY5EEJHSYcNoFpRr3w_mw7l/view?usp=sharing" target="_blank"> <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-resume-human-resources-itim2101-lineal-color-itim2101-1.png"  height="30" width="30" > </a>  </h2>
+<h2 align="center">You can have a Look to my CV for more details from here: <a href="https://drive.google.com/file/d/1I24nvCrn-T1l931iOfGyFCmY6miqafR4/view?usp=sharing" target="_blank"> <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-resume-human-resources-itim2101-lineal-color-itim2101-1.png"  height="30" width="30" > </a>  </h2>
 
